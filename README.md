@@ -61,8 +61,8 @@ Registra uma mensagem de nível `error`.
 
 ## Contribuindo
 
-Contribuições são sempre bem-vindas! Por favor, leia o guia de contribuição para saber como você pode contribuir para o projeto.
+Contribuições são sempre bem-vindas! Por favor, leia o guia de contribuição para saber como você pode contribuir para o projeto. [CONTRIBUIR](CONTRIBUTING).
 
 ## Licença
 
-`logger-json` é licenciado sob a [MIT License](https://chat.openai.com/c/LICENSE).
+`logger-json` é licenciado sob a [MIT License](LICENSE).
