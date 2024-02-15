@@ -1,9 +1,10 @@
 {
   "name": "logger-json",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Lib to show logs in json format",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
+  "repository": "https://github.com/naldomadeira/logger-json.git",
   "scripts": {
     "build": "tsc",
     "test": "jest",
@@ -11,7 +12,7 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": [],
-  "author": "",
+  "author": "naldomadeira@gmail.com",
   "license": "ISC",
   "files": [
     "dist/",
