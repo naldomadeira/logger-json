@@ -1,0 +1,33 @@
+# Dependências
+node_modules/
+
+# Diretório de compilação
+dist/
+
+# Arquivos de log
+*.log
+
+# Arquivos de ambiente
+.env
+
+# Diretórios de cobertura de testes
+coverage/
+
+# Arquivos de configuração do editor
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Arquivos de sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de build
+npm-debug.log
+yarn-error.log
+
+# Pasta de testes
+/tests/
+
+# Arquivos TypeScript auto gerados
+*.tsbuildinfo
