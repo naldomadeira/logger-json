@@ -1,13 +1,14 @@
 {
   "name": "logger-json",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Lib to show logs in json format",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
     "build": "tsc",
     "test": "jest",
-    "lint": "eslint . --ext .ts"
+    "lint": "eslint . --ext .ts",
+    "prepublishOnly": "npm run build"
   },
   "keywords": [],
   "author": "",
