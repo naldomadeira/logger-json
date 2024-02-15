@@ -1,24 +1,39 @@
 {
   "name": "logger-json",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Lib to show logs in json format",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "repository": "https://github.com/naldomadeira/logger-json.git",
+  "homepage": "https://github.com/naldomadeira/logger-json#readme",
+  "publishConfig": {
+    "access": "public",
+    "tag": "latest"
+  },
   "scripts": {
     "build": "tsc",
     "test": "jest",
     "lint": "eslint . --ext .ts",
     "prepublishOnly": "npm run build"
   },
-  "keywords": [],
-  "author": "naldomadeira@gmail.com",
+  "keywords": [
+    "logging",
+    "json",
+    "logger",
+    "nodejs",
+    "log management",
+    "typescript"
+  ],
+  "author": "Naldo Madeira <naldomadeira@gmail.com> (https://github.com/naldomadeira)",
   "license": "ISC",
   "files": [
     "dist/",
     "README.md",
     "LICENSE"
   ],
+  "bugs": {
+    "url": "https://github.com/naldomadeira/logger-json/issues"
+  },
   "devDependencies": {
     "@types/jest": "^29.5.12",
     "@types/node": "^20.11.19",

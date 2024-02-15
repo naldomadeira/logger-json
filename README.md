@@ -61,7 +61,7 @@ Registra uma mensagem de nível `error`.
 
 ## Contribuindo
 
-Contribuições são sempre bem-vindas! Por favor, leia o guia de contribuição para saber como você pode contribuir para o projeto. [CONTRIBUIR](CONTRIBUTING).
+Contribuições são sempre bem-vindas! Por favor, leia o [guia de contribuição](CONTRIBUTING.md) para saber como você pode contribuir para o projeto.
 
 ## Licença
 
